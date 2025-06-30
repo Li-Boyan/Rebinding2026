@@ -1,0 +1,11 @@
+MODEL:
+  c0_1: 1.5
+  c0_2: 1.5
+  koff: 0.02
+  kd: 0.01
+  m: 0.1
+  mu: 2
+  offset: 0.0
+WEIGHTS:
+- 1
+- 1

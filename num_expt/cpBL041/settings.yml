@@ -1,0 +1,18 @@
+TISSUE:
+  geometry: cylindrical
+  rcap: 5
+  kon: 0.36
+  kd: 0.005
+  mt: 10.0
+  D: 10.0
+  s_init: 9.99
+  c0:
+    - "constant"
+    - 0
+  tissue_length: 10
+  spatial_res: 1.0
+
+SOLVER:
+  tmax: 259200
+  dt: 0.01
+  dt_track: 60.0

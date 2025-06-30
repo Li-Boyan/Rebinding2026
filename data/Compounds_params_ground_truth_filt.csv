@@ -1,0 +1,16 @@
+Drug,koff,koff_ref,kd,kd_ref,target,plasma_binding,plasma_binding_ref,,LogP
+PTX,9.10E-02,"Diaz et al., Fast Kinetics of Taxol Binding to Microtubules",5,Javier; Kuh,1,95,https://pubmed.ncbi.nlm.nih.gov/10997930/,,3.2
+DTX,0.0455,,2.5,https://pmc.ncbi.nlm.nih.gov/articles/PMC10363405/,1,97,https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/022234s022lbl.pdf,,2.59
+Colchicine,2.90E-05,https://pubs.acs.org/doi/10.1021/bi00443a031?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting; https://www.sciencedirect.com/science/article/pii/S0021925819412076,24,https://www.sciencedirect.com/science/article/pii/S0021925819412076,1,39,https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215727s000lbl.pdf,,1.59
+CA4,3.20E-03,https://pubs.acs.org/doi/10.1021/bi00443a031?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting,140,https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c01775,1,72.3,https://www.researchgate.net/publication/368468684_Development_of_Combretastatin_A-4_Analogues_as_Potential_Anticancer_Agents_with_Improved_Aqueous_Solubility,,3.32
+VB,8.20E-03,https://pubs.acs.org/doi/10.1021/bi953037i,160,https://www.pnas.org/doi/pdf/10.1073/pnas.73.7.2375,1,98.9,https://pubmed.ncbi.nlm.nih.gov/6873152/,,4.22
+Alisertib,2.33E-04,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201300613,0.27,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201300613; https://www.oncotarget.com/article/16738/pdf/,0.004354649,99,https://pubmed.ncbi.nlm.nih.gov/30985952/,,5
+Ispinesib,5.00E-06,https://pubs.acs.org/doi/full/10.1021/bi702061g,10,https://journals.iucr.org/d/issues/2012/10/00/yt5043/index.html,0.015324675,99.4,https://www.nature.com/articles/s41598-020-63494-7,,4.71
+Rapamycin,1.16E-03,"https://www.rsc.org/suppdata/c5/ra/c5ra15637h/c5ra15637h1.pdf#:~:text=Compounds%20Ka,9",0.2,https://pubs.acs.org/doi/pdf/10.1021/ja043277y,0.185369318,92,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021083s069s070,021110s087s088lbl.pdf",,4.85
+Trametinib,1.20E-04,https://www.oncotarget.com/article/747/pdf/,0.35,https://www.oncotarget.com/article/747/pdf/,0.074147727,97.4,https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217513s000lbl.pdf,,3.45
+Selumetinib,1.00E-02,,99,https://www.nature.com/articles/nbt.1990#MOESM5,0.028693182,98.4,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213756s000lbl.pdf,,3.24
+Ixazomib,6.40E-04,https://pubmed.ncbi.nlm.nih.gov/20160034/,0.93,https://pubmed.ncbi.nlm.nih.gov/20160034/,0.214790114,99,https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208462s017lbl.pdf,,2.06
+Erlotinib,3.31E-03,,0.7,,0.008451705,95,https://pmc.ncbi.nlm.nih.gov/articles/PMC5854746/,,3.13
+Topotecan,5.70E-03,https://www.sciencedirect.com/science/article/pii/S0003986199913553?via%3Dihub; https://www.nature.com/articles/nature05938,26.5,https://www.rcsb.org/structure/1K4T,0.001918399,35,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022453s002lbl.pdf,,1.84
+Doxorubicin,,,,,,75,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/050467s078,050629s030lbl.pdf",,1.41
+Mitoxantrone,,,,,,78,https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/019297s030s031lbl.pdf,,0.91

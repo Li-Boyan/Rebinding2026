@@ -1,0 +1,8 @@
+MODEL:
+  koff: 0.1
+  kd: 0.02
+  m: 4
+  mu: 5
+WEIGHTS:
+- 1
+- 1

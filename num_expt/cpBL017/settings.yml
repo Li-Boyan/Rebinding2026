@@ -1,0 +1,19 @@
+TISSUE:
+  geometry: cylindrical
+  rcap: 5
+  variant: "piecewise_approx"
+  kon: 0.36
+  kd: 0.005
+  mt: 5.0
+  D: 10.0
+  s_init: 4.9950
+  c0:
+    - "constant"
+    - 0
+  tissue_length: 50
+  spatial_res: 1.0
+
+SOLVER:
+  tmax: 259200
+  dt: 0.005
+  dt_track: 60.0

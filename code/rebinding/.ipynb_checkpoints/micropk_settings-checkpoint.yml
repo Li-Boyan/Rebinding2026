@@ -1,0 +1,16 @@
+TISSUE:
+  kon: 3.6
+  kd: 5e-3
+  mt: 1
+  D: 4
+  c_init: 1
+  c0:
+    - "constant"
+    - 0
+  tissue_length: 50
+  spatial_res: 1
+
+SOLVER:
+  tmax: 1000000
+  dt: 0.1
+  dt_track: 1

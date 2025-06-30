@@ -1,0 +1,10 @@
+MODEL:
+  c0_1: 3
+  c0_2: 3
+  koff: 6
+  kd: 1
+  m: 4.1
+  mu: 1
+WEIGHTS:
+- 1
+- 1

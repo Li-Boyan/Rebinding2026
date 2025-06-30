@@ -1,0 +1,51 @@
+MODEL:
+  V1: 1
+  V2: 1
+  Vc1: 0.00525
+  Vc2: 0.00656
+  c0_1: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    zJrdCpQpdEA=
+  c0_2: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lOgjsTfpOUA=
+  c0_3: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QCNNP/DFLUA=
+  c0_4: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ksen0gjRAEA=
+  k: 50
+  kd: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZGFIQgyv5z8=
+  koff: 13.1
+  kon: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YteGHiuzMUA=
+  m: 13
+  mu: 1.5
+WEIGHTS:
+- 1
+- 1
+- 5
+- 5

@@ -1,0 +1,21 @@
+DRUGKINETICS:
+  k0: 0
+  k1: 3 * 60
+  k2: 1 * 60
+  kon: 6.1e-2 * 60 * 1e-2
+  KD: 5e-3
+  gamma: 1 / 60 / 2
+
+POPULATION:
+  lamda: 1 / 60 / 24
+  m_arrest: 2
+  K_arrest: 0.3
+  km: 1 / 60 / 24
+  kd: 1 / 60
+  ka: 1 / 60
+  mu: 1 / 60 / 24
+  n_transit_death: 3
+  n_transit_granul: 3
+
+IV:
+ - 15
